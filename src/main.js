@@ -2,6 +2,7 @@ import Vue from 'vue'
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
 import Navi from './components/Navi/Navi.vue'
+import MyTest from './components/Navi/MyTest.vue'
 import router from './router/index'
 
 Vue.use(ElementUI)
